@@ -1,6 +1,7 @@
-# RhythmStream-Server
-Node JS server for communication for rhythm stream games using socket io library. Made for the Unity game "Rhythm Stream" in 3 days,
-Link to Unity Repo : ``` https://github.com/CODE-MNA/RythmStream_Unity ```
+# RhythmStream-Server 
+Node JS server for communication for rhythm stream games using socket io library. 
+Made for the Unity game "Rhythm Stream" in 3 days.
+
 
 - Note Maker - ```Player that is going to move around the level and based on the current position of the maker player, starts ahead of player```
 
@@ -26,3 +27,7 @@ here are some key improvements I would make.
 - Implement an Event file which stores all events with proper documentation.
 - Extract room management to another service and ensure one service is just concerned with establishing web-socket connections.
 - Implement HTTP endpoints instead of WS for data about the timings data and song data that is requested by the maker.
+
+---
+### Link to Unity Repo : https://github.com/CODE-MNA/RythmStream_Unity 
+---
