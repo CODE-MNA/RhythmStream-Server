@@ -1,4 +1,4 @@
-# RythmStream-Server
+# RhythmStream-Server
 Node JS server for communication for rhythm stream games using socket io library. Made for the Unity game "Rhythm Stream" in 3 days,
 Link to Unity Repo : ``` https://github.com/CODE-MNA/RythmStream_Unity ```
 
